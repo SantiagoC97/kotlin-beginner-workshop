@@ -17,7 +17,7 @@ Los ejercicios se desarrollan de forma independiente y pueden ejecutarse utiliza
 | exercise-01 | Calculadora básica | Desarrollado |
 | exercise-02 | Clasificación de estudiantes | Desarrollado |
 | exercise-03 | Tabla de multiplicar | Desarrollado |
-| exercise-04 | Análisis de una lista | Pendiente |
+| exercise-04 | Análisis de una lista | Desarrollado |
 | exercise-05 | Funciones matemáticas | Pendiente |
 | exercise-06 | Gestión de productos | Pendiente |
 | exercise-07 | Agenda de contactos | Pendiente |
@@ -66,6 +66,21 @@ la suma de los diez resultados y mostrarla al final.
 
 **Prueba inicial:** para el número 7, se obtiene
 la tabla del 7 y una suma total de 385.
+
+
+## Ejercicio 04 - Análisis de una lista
+
+Analiza una colección de diez números enteros utilizando
+una lista y un ciclo `for`.
+
+El programa muestra los elementos, calcula su suma
+y promedio, identifica los valores mayor y menor,
+y determina cuántos números son pares e impares.
+
+**Prueba inicial:** con la lista definida en el programa,
+se obtiene una suma de 137, un promedio de 13.7,
+un máximo de 30, un mínimo de 4, cinco números
+pares y cinco impares.
 
 
 ## Referencias
