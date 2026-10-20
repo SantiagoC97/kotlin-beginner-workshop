@@ -20,8 +20,8 @@ Los ejercicios se desarrollan de forma independiente y pueden ejecutarse utiliza
 | exercise-04 | Análisis de una lista | Desarrollado |
 | exercise-05 | Funciones matemáticas | Desarrollado |
 | exercise-06 | Gestión de productos | Desarrollado |
-| exercise-07 | Agenda de contactos | Pendiente |
-| exercise-08 | Manejo de valores nulos | Pendiente |
+| exercise-07 | Agenda de contactos | Desarrollado |
+| exercise-08 | Manejo de valores nulos | Desarrollado |
 
 ## Instrucciones de ejecución
 
@@ -144,6 +144,19 @@ un contacto no existe.
 se agrega a Laura, se realizan búsquedas y
 posteriormente se elimina a Laura.
 
+
+## Ejercicio 08 - Manejo de valores nulos
+
+Implementa la función `generarSaludo(nombre: String?)`
+para retornar un saludo personalizado o genérico
+según el valor recibido.
+
+El programa utiliza `isNullOrBlank()` para identificar
+valores nulos, cadenas vacías y espacios en blanco,
+sin utilizar el operador `!!`.
+
+**Pruebas:** se comprueba el funcionamiento con nombres
+válidos, null, cadenas vacías y espacios en blanco.
 
 
 ## Referencias
