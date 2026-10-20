@@ -16,7 +16,7 @@ Los ejercicios se desarrollan de forma independiente y pueden ejecutarse utiliza
 |---|---|---|
 | exercise-01 | Calculadora básica | Desarrollado |
 | exercise-02 | Clasificación de estudiantes | Desarrollado |
-| exercise-03 | Tabla de multiplicar | Pendiente |
+| exercise-03 | Tabla de multiplicar | Desarrollado |
 | exercise-04 | Análisis de una lista | Pendiente |
 | exercise-05 | Funciones matemáticas | Pendiente |
 | exercise-06 | Gestión de productos | Pendiente |
@@ -41,6 +41,7 @@ Implementa una calculadora con las operaciones de suma, resta, multiplicación y
 
 **Prueba inicial:** con los valores 12.0 y 4.0, utilizando el operador de división, el resultado esperado es 3.0.
 
+
 ## Ejercicio 02 - Clasificación de estudiantes
 
 Calcula el promedio de tres calificaciones y determina
@@ -53,6 +54,19 @@ El programa valida que las calificaciones estén entre
 **Prueba inicial:** con las notas 4.0, 4.5 y 5.0,
 el promedio es 4.5. El estudiante está aprobado
 y obtiene un promedio excelente.
+
+
+## Ejercicio 03 - Tabla de multiplicar
+
+Genera la tabla de multiplicar de un número entero
+desde el 1 hasta el 10 mediante un ciclo `for`.
+
+El programa utiliza un acumulador para calcular
+la suma de los diez resultados y mostrarla al final.
+
+**Prueba inicial:** para el número 7, se obtiene
+la tabla del 7 y una suma total de 385.
+
 
 ## Referencias
 
