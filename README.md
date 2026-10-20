@@ -18,7 +18,7 @@ Los ejercicios se desarrollan de forma independiente y pueden ejecutarse utiliza
 | exercise-02 | Clasificación de estudiantes | Desarrollado |
 | exercise-03 | Tabla de multiplicar | Desarrollado |
 | exercise-04 | Análisis de una lista | Desarrollado |
-| exercise-05 | Funciones matemáticas | Pendiente |
+| exercise-05 | Funciones matemáticas | Desarrollado |
 | exercise-06 | Gestión de productos | Pendiente |
 | exercise-07 | Agenda de contactos | Pendiente |
 | exercise-08 | Manejo de valores nulos | Pendiente |
@@ -81,6 +81,25 @@ y determina cuántos números son pares e impares.
 se obtiene una suma de 137, un promedio de 13.7,
 un máximo de 30, un mínimo de 4, cinco números
 pares y cinco impares.
+
+
+## Ejercicio 05 - Funciones matemáticas
+
+Implementa tres funciones para realizar operaciones
+y comprobaciones matemáticas:
+
+- isPrime(number: Int): determina si un número es primo.
+- factorial(number: Int): calcula el factorial de un
+  entero no negativo, hasta 20.
+- isEven(number: Int): verifica si un número es par.
+
+Las tres funciones se ejecutan desde `main()`.
+
+El cálculo del factorial utiliza el tipo `Long` y
+controla los valores fuera del rango permitido.
+
+**Prueba inicial:** se verifica que 7 es primo,
+el factorial de 5 es 120 y 10 es un número par.
 
 
 ## Referencias
