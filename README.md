@@ -19,7 +19,7 @@ Los ejercicios se desarrollan de forma independiente y pueden ejecutarse utiliza
 | exercise-03 | Tabla de multiplicar | Desarrollado |
 | exercise-04 | Análisis de una lista | Desarrollado |
 | exercise-05 | Funciones matemáticas | Desarrollado |
-| exercise-06 | Gestión de productos | Pendiente |
+| exercise-06 | Gestión de productos | Desarrollado |
 | exercise-07 | Agenda de contactos | Pendiente |
 | exercise-08 | Manejo de valores nulos | Pendiente |
 
@@ -100,6 +100,27 @@ controla los valores fuera del rango permitido.
 
 **Prueba inicial:** se verifica que 7 es primo,
 el factorial de 5 es 120 y 10 es un número par.
+
+
+## Ejercicio 06 - Gestión de productos
+
+Implementa una clase `Product` con las propiedades
+nombre, precio y cantidad disponible.
+
+La clase contiene dos métodos:
+
+- `calcularValorInventario()`: calcula el valor
+  del inventario multiplicando precio por cantidad.
+- `mostrarInformacion()`: muestra los datos del
+  producto y su valor en inventario.
+
+El programa crea tres objetos de la clase `Product`
+y utiliza una lista y un ciclo `for` para mostrar
+la información de cada uno.
+
+**Prueba inicial:** el cuaderno tiene un valor en
+inventario de 50000.0, el lápiz de 30000.0
+y el borrador de 30000.0.
 
 
 ## Referencias
