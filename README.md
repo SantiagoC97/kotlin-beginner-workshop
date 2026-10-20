@@ -123,6 +123,29 @@ inventario de 50000.0, el lápiz de 30000.0
 y el borrador de 30000.0.
 
 
+## Ejercicio 07 - Agenda de contactos
+
+Implementa una agenda mediante la clase `Contact`,
+que contiene nombre, teléfono y correo electrónico.
+
+Utiliza una lista mutable con cinco contactos iniciales
+y funciones para realizar las siguientes operaciones:
+
+- Agregar nuevos contactos.
+- Listar los contactos registrados.
+- Buscar contactos por nombre.
+- Eliminar contactos por nombre.
+
+Las búsquedas no distinguen entre mayúsculas y
+minúsculas. El programa también informa cuando
+un contacto no existe.
+
+**Prueba inicial:** se crean cinco contactos,
+se agrega a Laura, se realizan búsquedas y
+posteriormente se elimina a Laura.
+
+
+
 ## Referencias
 
 - Documentación oficial de Kotlin: https://kotlinlang.org/docs/
