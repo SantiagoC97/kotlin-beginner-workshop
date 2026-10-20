@@ -15,7 +15,7 @@ Los ejercicios se desarrollan de forma independiente y pueden ejecutarse utiliza
 | Carpeta | Ejercicio | Estado |
 |---|---|---|
 | exercise-01 | Calculadora básica | Desarrollado |
-| exercise-02 | Clasificación de estudiantes | Pendiente |
+| exercise-02 | Clasificación de estudiantes | Desarrollado |
 | exercise-03 | Tabla de multiplicar | Pendiente |
 | exercise-04 | Análisis de una lista | Pendiente |
 | exercise-05 | Funciones matemáticas | Pendiente |
@@ -40,6 +40,19 @@ Cada archivo contiene su propia función `main()` y se ejecuta individualmente.
 Implementa una calculadora con las operaciones de suma, resta, multiplicación y división mediante la estructura `when`. Incluye una validación que impide dividir entre cero y un mensaje para operadores no válidos.
 
 **Prueba inicial:** con los valores 12.0 y 4.0, utilizando el operador de división, el resultado esperado es 3.0.
+
+## Ejercicio 02 - Clasificación de estudiantes
+
+Calcula el promedio de tres calificaciones y determina
+si un estudiante está aprobado o reprobado. También
+identifica si alcanzó un promedio excelente.
+
+El programa valida que las calificaciones estén entre
+0.0 y 5.0 antes de realizar los cálculos.
+
+**Prueba inicial:** con las notas 4.0, 4.5 y 5.0,
+el promedio es 4.5. El estudiante está aprobado
+y obtiene un promedio excelente.
 
 ## Referencias
 
